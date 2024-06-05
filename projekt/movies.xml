@@ -1,0 +1,42 @@
+<movies>
+        <movie>
+            <name>Harry Potter and the Philosopher's Stone</name>
+            <relesedate>2001</relesedate>
+            <director>Chris Columbus</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Chamber of Secrets</name>
+            <relesedate>2002</relesedate>
+            <director>Chris Columbus</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Prisoner of Azkaban </name>
+            <relesedate>2004</relesedate>
+            <director>Alfonso Cuarón</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Goblet of Fire</name>
+            <relesedate>2005</relesedate>
+            <director>Mike Newell</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Order of the Phoenix</name>
+            <relesedate>2007</relesedate>
+            <director>David Yates</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Half-Blood Prince</name>
+            <relesedate>2009</relesedate>
+            <director>David Yates</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Deathly Hallows Part 1</name>
+            <relesedate>2010</relesedate>
+            <director>David Yates</director>
+        </movie>
+        <movie>
+            <name>Harry Potter and the Deathly Hallows Part 2</name>
+            <relesedate>2011</relesedate>
+            <director>David Yates</director>
+        </movie>
+    </movies>
