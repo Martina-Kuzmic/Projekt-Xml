@@ -1,0 +1,44 @@
+<books>
+    <book>
+        <name>Harry Potter and Philosopher's stone</name>
+        <publishDate>26 June 1997</publishDate>
+        <pages>223</pages>
+        <DADAprof>Quirinus Quirrell</DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Chamber of Secrets</name>
+        <publishDate>2 July 1998</publishDate>
+        <pages>251</pages>
+        <DADAprof>Gilderoy Lockhart</DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Prisoner of Azkaban</name>
+        <publishDate>8 July 1999</publishDate>
+        <pages>317</pages>
+        <DADAprof>Remus Lupin</DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Goblet of Fire </name>
+        <publishDate>8 July 2000</publishDate>
+        <pages>636 </pages>
+        <DADAprof>Alastor "Mad-Eye" Moody</DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Order of the Phoenix</name>
+        <publishDate>21 June 2003</publishDate>
+        <pages>766</pages>
+        <DADAprof> Dolores Umbridge</DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Half-Blood Prince</name>
+        <publishDate>16 July 2005</publishDate>
+        <pages>607</pages>
+        <DADAprof> Severus Snape </DADAprof>
+    </book>
+    <book>
+        <name>Harry Potter and the Deathly Hallows</name>
+        <publishDate>21 July 2007</publishDate>
+        <pages>607</pages>
+        <DADAprof>Amycus Carrow</DADAprof>
+    </book>
+</books>
